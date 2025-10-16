@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="MyActionBarTitleStyle" parent="TextAppearance.Material3.ActionBar.Title">
+        <item name="android:textSize">10dp</item> </style>
+
+    <style name="MyActionBarStyle" parent="Widget.Material3.ActionBar.Solid">
+        <item name="titleTextStyle">@style/MyActionBarTitleStyle</item>
+    </style>
+
+
+    <style name="Base.Theme.JelajahNusantaraDIcoding" parent="Theme.Material3.DayNight">
+        <item name="actionBarStyle">@style/MyActionBarStyle</item>
+    </style>
+
+    <style name="Theme.JelajahNusantaraDIcoding" parent="Base.Theme.JelajahNusantaraDIcoding" />
+</resources>

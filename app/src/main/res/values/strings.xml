@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Jelajah Nusantara</string>
+
+    <string name="my_name">Muhammad Reza Aditya Ramadhan</string>
+    <string name="my_email">rezaadityaa26@gmail.com</string>
+
+    <string-array name="data_nama_wisata">
+        <item>Candi Borobudur</item>
+        <item>Kepulauan Raja Ampat</item>
+        <item>Gunung Bromo</item>
+        <item>Ubud, Bali</item>
+        <item>Taman Nasional Komodo</item>
+        <item>Danau Toba</item>
+        <item>Tana Toraja</item>
+        <item>Kawah Ijen</item>
+        <item>Taman Nasional Tanjung Puting</item>
+        <item>Gili Trawangan, Lombok</item>
+    </string-array>
+
+    <string-array name="data_deskripsi_singkat">
+        <item>Mahakarya arsitektur Buddha terbesar di dunia, warisan agung dari masa lampau.</item>
+        <item>Surga bawah laut di ujung timur Indonesia dengan keanekaragaman hayati laut terkaya di dunia.</item>
+        <item>Pemandangan matahari terbit magis dengan latar belakang gunung berapi aktif yang megah.</item>
+        <item>Jantung kebudayaan dan seni Pulau Bali yang dikelilingi sawah terasering yang menenangkan.</item>
+        <item>Rumah bagi kadal purba raksasa, Komodo, dengan pemandangan sabana dan pantai pink yang eksotis.</item>
+        <item>Danau vulkanik terbesar di dunia dengan sebuah pulau menawan di tengahnya.</item>
+        <item>Dataran tinggi memesona dengan budaya dan ritual pemakaman yang unik serta arsitektur ikonik.</item>
+        <item>Pesona kawah asam berwarna toska dan fenomena api biru abadi yang langka.</item>
+        <item>Petualangan menyusuri sungai di hutan Kalimantan untuk bertemu langsung dengan orangutan liar.</item>
+        <item>Pulau tropis bebas polusi dengan pantai pasir putih, air laut jernih, dan kehidupan malam yang semarak.</item>
+    </string-array>
+
+    <string-array name="data_deskripsi_panjang">
+        <item>Candi Borobudur adalah sebuah monumen Buddha Mahayana abad ke-9 di Magelang, Jawa Tengah. Monumen ini terdiri atas enam teras berbentuk bujur sangkar yang di atasnya terdapat tiga pelataran melingkar, dindingnya dihiasi dengan 2.672 panel relief dan aslinya terdapat 504 arca Buddha.</item>
+        <item>Kepulauan Raja Ampat merupakan rangkaian empat gugusan pulau yang berdekatan dan berlokasi di barat bagian Kepala Burung (Vogelkoop) Pulau Papua. Terkenal dengan keindahan bawah lautnya, Raja Ampat menjadi rumah bagi 75% spesies karang dunia.</item>
+        <item>Gunung Bromo adalah sebuah gunung berapi aktif di Jawa Timur. Sebagai bagian dari Taman Nasional Bromo Tengger Semeru, Bromo menjadi salah satu objek wisata paling terkenal di Indonesia. Daya tarik utamanya adalah pemandangan matahari terbit dari Penanjakan 1.</item>
+        <item>Ubud adalah sebuah kota di pulau Bali yang dikenal sebagai pusat seni dan budaya. Di sini, pengunjung dapat mengunjungi Puri Saren Agung (Istana Ubud), pasar seni, galeri-galeri lukisan, serta menikmati pertunjukan tari tradisional Bali.</item>
+        <item>Taman Nasional Komodo terletak di antara provinsi Nusa Tenggara Timur dan Nusa Tenggara Barat. Taman nasional ini didirikan pada tahun 1980 untuk melindungi komodo dan habitatnya. Selain melihat komodo, pengunjung juga bisa menikmati Pink Beach yang terkenal.</item>
+        <item>Danau Toba adalah danau kaldera supervulkan yang terletak di tengah pulau Sumatra bagian utara. Dengan panjang 100 kilometer dan lebar 30 kilometer, ini adalah danau terbesar di Indonesia. Di tengah danau ini terdapat sebuah pulau vulkanik bernama Pulau Samosir.</item>
+        <item>Tana Toraja adalah sebuah kabupaten di Sulawesi Selatan yang terkenal dengan budayanya yang sangat khas. Masyarakat Toraja memiliki ritual pemakaman yang rumit bernama Rambu Solo dan rumah adat unik, Tongkonan.</item>
+        <item>Kawah Ijen adalah sebuah danau kawah asam yang berada di puncak Gunung Ijen di Jawa Timur. Salah satu fenomena alam langka yang paling dicari di sini adalah api biru (blue fire) yang muncul dari celah-celah batuan pada malam hari.</item>
+        <item>Taman Nasional Tanjung Puting adalah sebuah taman nasional di Kalimantan Tengah yang berfungsi sebagai pusat konservasi orangutan. Pengalaman utama di sini adalah menyusuri Sungai Sekonyer dengan perahu klotok selama beberapa hari.</item>
+        <item>Gili Trawangan adalah yang terbesar dari tiga pulau kecil di lepas pantai barat laut Lombok. Pulau ini terkenal karena tidak adanya kendaraan bermotor, sehingga transportasi utama adalah sepeda dan cidomo (kereta kuda).</item>
+    </string-array>
+
+    <array name="data_foto_wisata">
+        <item>@drawable/candi_borobudur</item>
+        <item>@drawable/kepulauan_raja_ampat</item>
+        <item>@drawable/gunung_bromo</item>
+        <item>@drawable/ubud_bali</item>
+        <item>@drawable/taman_nasional_komodo</item>
+        <item>@drawable/danau_toba</item>
+        <item>@drawable/tana_toraja</item>
+        <item>@drawable/kawah_ijen</item>
+        <item>@drawable/tanjung_puting</item>
+        <item>@drawable/gili_trawangan</item>
+    </array>
+</resources>
